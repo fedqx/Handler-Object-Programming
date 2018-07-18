@@ -13,6 +13,7 @@ bool test(sturct Player *p) // You can use it with classes to!
 }
 ```
 ***************************************************************************************************
+Note: HOP can be used for both C and C++
 Now, you might say "Why do we need this ?" and the answer is : you dont ;)
 The HOP is not a libray nor a framework:
 ## It is an Idea
