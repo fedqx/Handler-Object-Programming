@@ -36,4 +36,5 @@ p.initplayer() // Not allowed ! >:(
 ```
 ***************************************************************************************************
 - Multiple object parameters allowed
+
 And last one : These are not laws, these rules are for proper use of the HOP so dont worry that much ;)
