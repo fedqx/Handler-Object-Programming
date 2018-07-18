@@ -7,7 +7,7 @@ In Handler Object Programming we program (nearly) everything with functions that
 Wanna see in action ?
 ***************************************************************************************************
 ```cpp
-bool test(sturct Player &p)
+bool test(sturct Player *p)
 {
 // do stuff
 }
