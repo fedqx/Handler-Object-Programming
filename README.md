@@ -14,6 +14,7 @@ bool test(sturct Player *p) // You can use it with classes to!
 ```
 ***************************************************************************************************
 Note: HOP can be used for both C and C++
+
 Now, you might say "Why do we need this ?" and the answer is : you dont ;)
 The HOP is not a libray nor a framework:
 ## It is an Idea
@@ -23,7 +24,7 @@ You can find exemples in Example.c
 ## Some rules with HOP
 - Functions will take only object parameters 
 - Functions must have a error-checking system wheter its return value or [other](https://github.com/fedqx/BFU-GL-cpp-Framework) error checking system
-- Using class function is not allowed (Constuctor and Destructor is a Exeption).
+- Using class function is not allowed (Constuctor and Destructor is a Exception).
 e.g:
 ***************************************************************************************************
 ```cpp
