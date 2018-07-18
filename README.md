@@ -19,7 +19,7 @@ The HOP is not a libray nor a framework:
 ## It is an Idea
 Its made for programmers who cant decide wheter use fp or oop 
 ***************************************************************************************************
-You can find exemples in exemple.cpp
+You can find exemples in Example.c
 ## Some rules with HOP
 - Functions will take only object parameters 
 - Functions must have a error-checking system wheter its return value or [other](https://github.com/fedqx/BFU-GL-cpp-Framework) error checking system
@@ -38,4 +38,4 @@ p.initplayer() // Not allowed ! >:(
 ***************************************************************************************************
 - Multiple object parameters allowed
 
-And last one : These are not laws, these rules are for proper use of the HOP so dont worry that much ;)
+And last one: These are not laws, these rules are for the proper use of the HOP so don't worry that much ;)
