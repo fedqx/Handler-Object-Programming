@@ -18,7 +18,7 @@ Note: HOP can be used for both C and C++
 Now, you might say "Why do we need this ?" and the answer is : you dont ;)
 The HOP is not a libray nor a framework:
 ## It is an Idea
-Its made for programmers who cant decide wheter use fp or oop 
+
 ***************************************************************************************************
 You can find exemples in Example.c
 ## Some rules with HOP
