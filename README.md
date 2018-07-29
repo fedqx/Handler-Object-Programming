@@ -7,13 +7,14 @@ In Handler Object Programming we program (nearly) everything with functions that
 Wanna see in action ?
 ***************************************************************************************************
 ```cpp
-bool test(sturct Player *p) // You can use it with classes to!
+bool test(sturct Player *p) 
 {
 // do stuff
 }
 ```
 ***************************************************************************************************
 Note: HOP can be used for both C and C++
+
 
 Now, you might say "Why do we need this ?" and the answer is : you dont ;)
 The HOP is not a libray nor a framework:
@@ -23,6 +24,7 @@ The HOP is not a libray nor a framework:
 You can find exemples in Example.c
 ## Some rules with HOP
 - Functions will take only object parameters 
+- Handler dosent need to be class/struct object. it can be any type **as long as It's used as object** e.g: vbo from OpenGL
 - Functions must have a error-checking system wheter its return value or [other](https://github.com/fedqx/BFU-GL-cpp-Framework) error checking system
 - Using class function is not allowed (Constuctor and Destructor is a Exception).
 e.g:
