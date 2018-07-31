@@ -32,9 +32,9 @@ e.g:
 ```cpp
 bool test(Player *p) 
 {
-p.Player(); // ok
-p.~Player(); //ok
-p.initplayer() // Not allowed ! >:(
+p->Player(); // ok
+p->~Player(); //ok
+p->initplayer() // Not allowed ! >:(
 
 }
 ```
