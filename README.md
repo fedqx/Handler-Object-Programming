@@ -7,9 +7,15 @@ In Handler Object Programming we program (nearly) everything with functions that
 Wanna see in action ?
 ***************************************************************************************************
 ```cpp
+struct Player
+{
+int health;
+bool alive;
+}
+int x = 100; // allowed
 bool test(sturct Player *p) 
 {
-// do stuff
+p->health = x;
 }
 ```
 ***************************************************************************************************
