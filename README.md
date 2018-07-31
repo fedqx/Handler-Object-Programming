@@ -1,9 +1,7 @@
 # Handler-Object-Programming
 HOP is a way to mix object-oriented programming and functional programming.
 ## How does it work?
-In functional programming, we program (nearly) everything with functions!
-In Object-oriented programming, we program (nearly) everything with objects!
-In Handler Object Programming we program (nearly) everything with functions that take (Handler)object parameters!
+When defining data/variables, HOP is OOP like. When creating systems/behaviours, HOP is FP like
 Wanna see in action ?
 ***************************************************************************************************
 ```cpp
