@@ -48,4 +48,4 @@ p->initplayer() // Not allowed ! >:(
 
 And last one: These are not laws, these rules are for the proper use of the HOP so don't worry that much ;)
 ## Comments
-- "a fascinating original idea" -MNZ Creatif
+- "a fascinating original idea" -MNZ Creative
